@@ -10,9 +10,9 @@ div.top-title {
 }
 
 div.top-title img {
-    position: absolute;
     width: 95px;
     height: 95px;
+    margin-bottom: -30px;
 }
 
 div.top-title h1 {
@@ -20,7 +20,6 @@ div.top-title h1 {
     vertical-align: top;
     width: 220px;
     padding: 22px 0px 8px 10px;
-    margin-left: 100px;
     font-size: 40px;
 }
 
@@ -32,7 +31,6 @@ div.container {
     width: 900px;
     min-height: 900px;
     margin: auto;
-    z-index: -1;
     background: linear-gradient(#EFEFEF, #ffffff);
 }
 
